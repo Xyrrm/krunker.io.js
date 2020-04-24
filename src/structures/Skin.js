@@ -13,6 +13,7 @@ module.exports = class Skin {
         Object.defineProperty(this, 'client', { value: client });
         this.weapon = resolveWeapon(wResolvable);
         if (!this.weapon) throw new ArgumentError('CANNOT_RESOLVE', wResolvable, 'Weapon');
+        this.devNumber = data.weapon;
         this.name = data.name;
         this.id = data.id;
         this.season = data.seas || 1;
