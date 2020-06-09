@@ -13823,5 +13823,30 @@
         "opac": 0.6,
         "rarity": 5,
         "seas": 3
+    },
+    {
+        "name": "Soul Harvest",
+        "id": 53,
+        "tex": 3,
+        "rarity": 5,
+        "glow": true,
+        "type": 2,
+        "opac": 0.6,
+        "keyW": "Body",
+        "sclMlt": 2.4,
+        "sitOff": -0.65,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "movT": 3e-4
+    },
+    {
+        "name": "Hackusate",
+        "id": 203,
+        "weapon": 1,
+        "rarity": 5,
+        "rgb": true,
+        "rgbs": 0.5,
+        "wire": true,
+        "seas": 3
     }
 ]
