@@ -14897,5 +14897,43 @@
         "xOff": -1,
         "keyW": "Melee",
         "seas": 3
+    },
+    {
+        "name": "Prototype-14",
+        "id": 0,
+        "creator": "Multihawk",
+        "weapon": 14,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Dream Destroyer",
+        "id": 1,
+        "creator": "Destroy007",
+        "weapon": 14,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "E-12",
+        "id": 2,
+        "creator": "Cimota",
+        "weapon": 14,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "T.A.N 9",
+        "id": 3,
+        "creator": "Floatingpoint",
+        "weapon": 14,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
     }
 ]
