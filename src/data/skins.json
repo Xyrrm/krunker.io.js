@@ -12336,5 +12336,39 @@
         "rarity": 5,
         "glow": true,
         "seas": 3
+    },
+    {
+        "name": "Scout Mastery",
+        "mid": 5,
+        "seas": 3,
+        "weapon": 1,
+        "rarity": 5,
+        "noSale": true,
+        "illicit": true,
+        "funds": 1e4,
+        "yOrg": -0.2,
+        "reqT": "Level 100 Hunter"
+    },
+    {
+        "name": "Redux",
+        "id": 10,
+        "tex": 2,
+        "rarity": 5,
+        "type": 3,
+        "keyW": "Melee",
+        "seas": 3,
+        "shaderId": 0
+    },
+    {
+        "name": "Neon Dance",
+        "id": 52,
+        "tex": 4,
+        "rarity": 5,
+        "side": 2,
+        "glow": true,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3,
+        "shaderId": 1
     }
 ]
