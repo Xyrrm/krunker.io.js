@@ -15633,7 +15633,7 @@
         "creator": "Kilfy",
         "weapon": 11,
         "rarity": 5,
-        "glow":!0,
+        "glow":true,
         "seas": 3
     },
     {
