@@ -672,6 +672,9 @@
         "name": "Top Hat",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -4,
         "id": 1,
         "rarity": 2
     },
@@ -685,12 +688,16 @@
         "name": "Cowboy Hat",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
         "id": 0,
         "rarity": 0
     },
     {
         "name": "Flame Tamer",
         "id": 13,
+        "pulsT": 0.0015,
         "weapon": 5,
         "glow": true,
         "rarity": 5
@@ -699,6 +706,10 @@
         "name": "Cool Cap",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
+        "xOff": 2,
         "id": 2,
         "rarity": 1
     },
@@ -706,7 +717,11 @@
         "name": "Jack O' Lantern",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
         "glow": true,
+        "sclMlt": 1.4,
+        "sitOff": 2.05,
+        "yOff": -4,
         "id": 3,
         "rarity": 3
     },
@@ -714,6 +729,10 @@
         "name": "Medic Helmet",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
+        "sclMlt": 1,
+        "sitOff": 0.65,
+        "yOff": -2.5,
         "id": 4,
         "rarity": 2
     },
@@ -729,6 +748,11 @@
         "name": "Sun Glasses",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
+        "sclMlt": 1,
+        "sitOff": 2.3,
+        "yOff": -5,
+        "xOff": 2,
         "id": 5,
         "rarity": 0
     },
@@ -736,6 +760,10 @@
         "name": "Afro",
         "type": 1,
         "keyW": "Head",
+        "scl": 2,
+        "sclMlt": 0.9,
+        "sitOff": 1.4,
+        "yOff": -4,
         "id": 6,
         "rarity": 0
     },
@@ -743,6 +771,9 @@
         "name": "Hard Hat",
         "type": 1,
         "keyW": "Head",
+        "scl": 3,
+        "sitOff": 0.4,
+        "yOff": -3,
         "id": 7,
         "rarity": 0
     },
@@ -750,7 +781,11 @@
         "name": "Zombie Head",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
         "glow": true,
+        "sclMlt": 1.2,
+        "sitOff": 2.05,
+        "yOff": -4,
         "id": 8,
         "rarity": 3
     },
@@ -1456,6 +1491,10 @@
         "tex": 1,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
+        "xOff": 2,
         "rarity": 0
     },
     {
@@ -1463,6 +1502,11 @@
         "id": 9,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1.3,
+        "sitOff": 2.05,
+        "yOff": -4,
+        "xOff": 1,
         "rarity": 2
     },
     {
@@ -1471,6 +1515,11 @@
         "tex": 1,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1.3,
+        "sitOff": 2.05,
+        "yOff": -4,
+        "xOff": 1,
         "rarity": 2
     },
     {
@@ -1478,6 +1527,10 @@
         "id": 11,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
+        "sclMlt": 0.9,
+        "sitOff": 2,
+        "yOff": -3,
         "rarity": 2
     },
     {
@@ -1486,6 +1539,10 @@
         "tex": 1,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.8,
+        "sclMlt": 0.9,
+        "sitOff": 2,
+        "yOff": -3,
         "rarity": 2
     },
     {
@@ -1493,7 +1550,13 @@
         "id": 12,
         "type": 1,
         "keyW": "Head",
+        "scl": 3,
         "glow": true,
+        "sclMlt": 1.05,
+        "sitOff": 2.5,
+        "sitOffZ": 1.1,
+        "yOff": -4.5,
+        "xOff": -3,
         "tex": 0,
         "rarity": 3
     },
@@ -1502,6 +1565,10 @@
         "id": 13,
         "type": 1,
         "keyW": "Head",
+        "scl": 3,
+        "sclMlt": 1.1,
+        "sitOff": 0.4,
+        "yOff": -3,
         "tex": 0,
         "rarity": 0
     },
@@ -1510,6 +1577,10 @@
         "id": 13,
         "type": 1,
         "keyW": "Head",
+        "scl": 3,
+        "sclMlt": 1.1,
+        "sitOff": 0.4,
+        "yOff": -3,
         "tex": 1,
         "rarity": 0
     },
@@ -1518,6 +1589,10 @@
         "id": 14,
         "type": 1,
         "keyW": "Head",
+        "scl": 2,
+        "sclMlt": 1.1,
+        "sitOff": 1.4,
+        "yOff": -4,
         "rarity": 2
     },
     {
@@ -1526,6 +1601,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 1,
+        "scl": 2,
+        "sclMlt": 1.1,
+        "sitOff": 1.4,
+        "yOff": -4,
         "rarity": 2
     },
     {
@@ -1534,6 +1613,12 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 3.5,
+        "sclMlt": 3,
+        "xOff": -1.5,
+        "sitOff": -1.3,
+        "sitOffZ": -1.4,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -1541,6 +1626,11 @@
         "id": 1,
         "type": 2,
         "keyW": "Back",
+        "scl": 4,
+        "sclMlt": 3.8,
+        "sitOff": -1.3,
+        "sitOffZ": -1,
+        "yOff": -2,
         "rarity": 2
     },
     {
@@ -1549,6 +1639,12 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 0.00048112055276382,
+        "sclMlt": 0.000406279577889448,
+        "sitOff": -1.3,
+        "sitOffZ": -0.95,
+        "yOff": -1,
+        "xOff": -0.5,
         "rarity": 3
     },
     {
@@ -1557,6 +1653,11 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 5.1,
+        "sclMlt": 5,
+        "sitOff": -1.3,
+        "sitOffZ": -0.95,
+        "yOff": -1,
         "rarity": 3
     },
     {
@@ -1564,6 +1665,11 @@
         "id": 4,
         "type": 2,
         "keyW": "Back",
+        "scl": 2.1,
+        "sclMlt": 1.3,
+        "sitOff": 2.2,
+        "sitOffZ": 0,
+        "yOff": -5,
         "rarity": 3
     },
     {
@@ -1572,6 +1678,11 @@
         "tex": 1,
         "type": 2,
         "keyW": "Back",
+        "scl": 2.1,
+        "sclMlt": 1.3,
+        "sitOff": 2.2,
+        "sitOffZ": 0,
+        "yOff": -5,
         "rarity": 3
     },
     {
@@ -1580,6 +1691,12 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 3.5,
+        "sclMlt": 3.6,
+        "xOff": -1.5,
+        "sitOff": -1.3,
+        "sitOffZ": -1.4,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -1588,6 +1705,11 @@
         "glow": true,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1.1,
+        "sitOff": 2.05,
+        "yOff": -4,
+        "xOff": 0,
         "rarity": 3
     },
     {
@@ -1596,12 +1718,20 @@
         "glow": true,
         "type": 1,
         "keyW": "Head",
+        "scl": 3.5,
+        "sclMlt": 1.1,
+        "sitOff": -0.65,
+        "yOff": -1,
         "rarity": 3
     },
     {
         "name": "Welder Mask",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sitOff": 2.1,
+        "yOff": -3,
+        "xOff": 1,
         "id": 17,
         "rarity": 1
     },
@@ -1609,6 +1739,10 @@
         "name": "Diver Goggles",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 0.9,
+        "sitOff": 1,
+        "yOff": -1,
         "id": 18,
         "rarity": 1
     },
@@ -1617,6 +1751,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 2,
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
+        "xOff": 2,
         "id": 2,
         "rarity": 1
     },
@@ -1625,6 +1763,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 3,
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
+        "xOff": 2,
         "id": 2,
         "rarity": 1
     },
@@ -1633,6 +1775,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 4,
+        "scl": 2.5,
+        "sitOff": 0.4,
+        "yOff": -3,
+        "xOff": 2,
         "id": 2,
         "rarity": 1
     },
@@ -1642,6 +1788,12 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 2.6,
+        "sclMlt": 1.8,
+        "xOff": 1,
+        "sitOff": 1.3,
+        "sitOffZ": -1.75,
+        "yOff": -5,
         "rarity": 1
     },
     {
@@ -1650,6 +1802,12 @@
         "type": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 5,
+        "sclMlt": 3.9,
+        "xOff": -3.5,
+        "sitOff": -1.3,
+        "sitOffZ": -0.75,
+        "yOff": -4,
         "rarity": 4
     },
     {
@@ -1657,6 +1815,12 @@
         "id": 8,
         "type": 2,
         "keyW": "Back",
+        "scl": 3.5,
+        "sclMlt": 2,
+        "xOff": -1.5,
+        "sitOff": 0.75,
+        "sitOffZ": -0.8,
+        "yOff": -4,
         "rarity": 1
     },
     {
@@ -1664,6 +1828,13 @@
         "id": 9,
         "type": 2,
         "keyW": "Back",
+        "scl": 3.5,
+        "sclMlt": 2,
+        "xOff": 1,
+        "sitOff": 0.75,
+        "sitOffZ": -0.8,
+        "yOff": -5,
+        "xRot": 3.141592653589793,
         "rarity": 3
     },
     {
@@ -1671,6 +1842,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 1,
+        "scl": 2.8,
+        "sclMlt": 1,
+        "sitOff": 0.65,
+        "yOff": -2.5,
         "id": 4,
         "rarity": 1
     },
@@ -1679,6 +1854,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 1,
+        "scl": 2,
+        "sclMlt": 0.9,
+        "sitOff": 1.4,
+        "yOff": -4,
         "id": 6,
         "rarity": 0
     },
@@ -1688,7 +1867,13 @@
         "type": 1,
         "keyW": "Head",
         "tex": 1,
+        "scl": 3,
         "glow": true,
+        "sclMlt": 1.05,
+        "sitOff": 2.5,
+        "sitOffZ": 1.1,
+        "yOff": -4.5,
+        "xOff": -3,
         "rarity": 3
     },
     {
@@ -1696,6 +1881,10 @@
         "type": 1,
         "keyW": "Head",
         "tex": 1,
+        "scl": 2.5,
+        "sitOff": 2.1,
+        "yOff": -3,
+        "xOff": 1,
         "id": 17,
         "rarity": 2
     },
@@ -1705,6 +1894,11 @@
         "glow": true,
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1.3,
+        "sitOff": 2.05,
+        "yOff": -4,
+        "xOff": 1,
         "rarity": 3
     },
     {
@@ -1758,6 +1952,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 2.4,
+        "sclMlt": 1,
+        "sitOff": 2,
+        "yOff": -3.4,
         "id": 20,
         "rarity": 3
     },
@@ -1765,6 +1963,10 @@
         "name": "Knight Helmet",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.3,
+        "sclMlt": 1,
+        "sitOff": 2,
+        "yOff": -3.2,
         "id": 21,
         "rarity": 3
     },
@@ -1772,6 +1974,10 @@
         "name": "Cat Ears",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1.2,
+        "sitOff": 1.65,
+        "yOff": -3.2,
         "id": 22,
         "rarity": 2
     },
@@ -1779,6 +1985,10 @@
         "name": "Snowman",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.2,
+        "sclMlt": 1,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 23,
         "rarity": 2
     },
@@ -1786,6 +1996,10 @@
         "name": "Trendy Biker",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.2,
+        "sclMlt": 1,
+        "sitOff": 1.8,
+        "yOff": -3.2,
         "id": 24,
         "rarity": 3
     },
@@ -1794,6 +2008,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 2.4,
+        "sclMlt": 1,
+        "sitOff": 0.65,
+        "yOff": -3.2,
         "id": 25,
         "rarity": 3
     },
@@ -1801,6 +2019,10 @@
         "name": "Master Drinker",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.4,
+        "sclMlt": 1,
+        "sitOff": 0.65,
+        "yOff": -2.7,
         "id": 26,
         "rarity": 3
     },
@@ -1808,6 +2030,10 @@
         "name": "Pig Head",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.5,
+        "sclMlt": 1,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 27,
         "rarity": 3
     },
@@ -1815,6 +2041,10 @@
         "name": "Red Bandana",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.2,
+        "sclMlt": 1,
+        "sitOff": 1.6,
+        "yOff": -3.2,
         "id": 28,
         "rarity": 1
     },
@@ -1822,6 +2052,10 @@
         "name": "Sheriff",
         "type": 1,
         "keyW": "Head",
+        "scl": 2.2,
+        "sclMlt": 1,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 29,
         "rarity": 4
     },
@@ -1830,6 +2064,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 2.2,
+        "sclMlt": 1,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 30,
         "rarity": 4
     },
@@ -2009,6 +2247,7 @@
         "pat": 0,
         "tex": "weapons/pat/0",
         "sameGlow": true,
+        "movT": 1e-4,
         "weapon": 4,
         "rarity": 5
     },
@@ -2018,6 +2257,7 @@
         "pat": 0,
         "tex": "weapons/pat/0",
         "sameGlow": true,
+        "movT": 1e-4,
         "weapon": 2,
         "rarity": 5
     },
@@ -2027,6 +2267,7 @@
         "pat": 1,
         "tex": "weapons/pat/1",
         "sameGlow": true,
+        "movT": 0.0015,
         "weapon": 2,
         "rarity": 5
     },
@@ -2036,6 +2277,7 @@
         "pat": 1,
         "tex": "weapons/pat/1",
         "sameGlow": true,
+        "movT": 0.0015,
         "weapon": 4,
         "rarity": 5
     },
@@ -2530,6 +2772,7 @@
         "pat": 1,
         "tex": "weapons/pat/1",
         "sameGlow": true,
+        "movT": 0.0015,
         "weapon": 1,
         "rarity": 5
     },
@@ -2538,6 +2781,12 @@
         "id": 10,
         "type": 2,
         "keyW": "Back",
+        "scl": 0.0005593478391959849,
+        "sclMlt": 0.0006552360402010109,
+        "xOff": -3,
+        "sitOff": -1.3,
+        "sitOffZ": -1.4,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -2634,6 +2883,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 32,
         "rarity": 4
     },
@@ -2643,6 +2896,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 32,
         "rarity": 4
     },
@@ -2654,6 +2911,9 @@
         "tex": 2,
         "id": 0,
         "type": 3,
+        "scl": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 5
     },
     {
@@ -2662,6 +2922,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 32,
         "rarity": 4
     },
@@ -2671,6 +2935,10 @@
         "type": 1,
         "keyW": "Head",
         "glow": true,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
         "id": 32,
         "rarity": 4
     },
@@ -2703,6 +2971,9 @@
         "tex": 3,
         "id": 0,
         "type": 3,
+        "scl": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 5
     },
     {
@@ -2712,6 +2983,9 @@
         "glow": true,
         "id": 1,
         "type": 3,
+        "scl": 2,
+        "sclMlt": 0.9,
+        "yOff": -0.5,
         "rarity": 6
     },
     {
@@ -2869,7 +3143,12 @@
         "name": "Intervention VI",
         "mid": 0,
         "glow": true,
+        "pulsT": 0.0015,
+        "scl": 0.00094830394974876,
+        "mScl": 0.0010536710552764,
+        "zOff": -0.25,
         "seas": 2,
+        "yOff": 0.05,
         "weapon": 1,
         "rarity": 5
     },
@@ -2879,6 +3158,11 @@
         "midT": "weapons/weapon_1_1",
         "glow": true,
         "seas": 2,
+        "pulsT": 0.0015,
+        "scl": 0.00094830394974876,
+        "mScl": 0.0010536710552764,
+        "zOff": -0.25,
+        "yOff": 0.05,
         "weapon": 1,
         "rarity": 5
     },
@@ -2887,8 +3171,13 @@
         "keyW": "Knife",
         "animInd": 1,
         "glow": true,
+        "pulsT": 0.1,
         "id": 2,
         "type": 3,
+        "scl": 3,
+        "seas": 2,
+        "sclMlt": 0.98,
+        "yOff": -2,
         "rarity": 5
     },
     {
@@ -2899,6 +3188,9 @@
         "tex": 4,
         "id": 0,
         "type": 3,
+        "scl": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -3278,6 +3570,7 @@
         "weapon": 1,
         "rarity": 4,
         "animInd": 1,
+        "pulsT": 0.1,
         "glow": true,
         "seas": 2
     },
@@ -5473,6 +5766,10 @@
         "tex": 6,
         "id": 0,
         "type": 3,
+        "scl": 2.3,
+        "seas": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 3
     },
     {
@@ -5482,6 +5779,10 @@
         "tex": 7,
         "id": 0,
         "type": 3,
+        "scl": 2.3,
+        "seas": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 3
     },
     {
@@ -5491,6 +5792,10 @@
         "tex": 1,
         "glow": true,
         "type": 3,
+        "scl": 3,
+        "seas": 2,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -5498,8 +5803,14 @@
         "keyW": "Knife",
         "id": 3,
         "type": 3,
+        "scl": 2.6,
         "seas": 2,
-        "rarity": 4
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Flamefang",
@@ -5508,8 +5819,14 @@
         "glow": true,
         "id": 3,
         "type": 3,
+        "scl": 2.6,
         "seas": 2,
-        "rarity": 5
+        "sclMlt": 0.9,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 5,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Plasma Dust",
@@ -5518,8 +5835,14 @@
         "glow": true,
         "id": 3,
         "type": 3,
+        "scl": 2.6,
         "seas": 2,
-        "rarity": 5
+        "sclMlt": 0.9,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 5,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Volt Fang",
@@ -5528,8 +5851,14 @@
         "glow": true,
         "id": 3,
         "type": 3,
+        "scl": 2.6,
         "seas": 2,
-        "rarity": 5
+        "sclMlt": 0.9,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 5,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Black Cowboy Hat",
@@ -5537,7 +5866,9 @@
         "keyW": "Head",
         "id": 39,
         "rarity": 0,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6
     },
     {
         "name": "Brown Cowboy Hat",
@@ -5546,7 +5877,11 @@
         "id": 39,
         "tex": 1,
         "rarity": 0,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Outback Hat",
@@ -5554,7 +5889,11 @@
         "keyW": "Head",
         "id": 40,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Dundee Hat",
@@ -5563,7 +5902,11 @@
         "id": 40,
         "tex": 1,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Red Hat",
@@ -5571,7 +5914,11 @@
         "keyW": "Head",
         "id": 41,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Blue Hat",
@@ -5580,7 +5927,11 @@
         "id": 41,
         "tex": 1,
         "rarity": 0,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Urban Soldier",
@@ -5589,7 +5940,11 @@
         "id": 42,
         "tex": 0,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.78,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Desert Soldier",
@@ -5598,7 +5953,11 @@
         "id": 42,
         "tex": 1,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.78,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Arctic Soldier",
@@ -5607,7 +5966,11 @@
         "id": 42,
         "tex": 2,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.78,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Ace",
@@ -5615,7 +5978,11 @@
         "keyW": "Head",
         "id": 43,
         "rarity": 3,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.7,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Pinata",
@@ -5623,7 +5990,11 @@
         "keyW": "Head",
         "id": 44,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Sombrerro",
@@ -5632,7 +6003,11 @@
         "id": 44,
         "tex": 1,
         "rarity": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 0.6,
+        "yOff": -1.2,
+        "scl": 1.2
     },
     {
         "name": "Swagger",
@@ -5640,7 +6015,11 @@
         "keyW": "Head",
         "id": 45,
         "rarity": 3,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.8,
+        "yOff": -2,
+        "scl": 1.2
     },
     {
         "name": "Acid Bane",
@@ -5649,7 +6028,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 5,
+        "sclMlt": 3.4,
+        "sitOff": -1.3,
+        "sitOffZ": -0.8,
+        "yOff": -2,
+        "xOff": -4
     },
     {
         "name": "Plasma Bones",
@@ -5659,7 +6044,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 5,
+        "sclMlt": 3.4,
+        "sitOff": -1.3,
+        "sitOffZ": -0.8,
+        "yOff": -2,
+        "xOff": -4
     },
     {
         "name": "Jet Pack",
@@ -5668,7 +6059,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 6,
+        "sclMlt": 3,
+        "sitOff": -0.5,
+        "sitOffZ": -0.93,
+        "yOff": -1.3,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Red Backpack",
@@ -5676,7 +6073,13 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 4,
+        "sclMlt": 2.3,
+        "sitOff": -0.8,
+        "sitOffZ": -0.8,
+        "yOff": -1.5,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Blue Backpack",
@@ -5685,7 +6088,13 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3.5,
+        "sclMlt": 2.3,
+        "sitOff": -0.8,
+        "sitOffZ": -0.8,
+        "yOff": -1.5,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Police Vest",
@@ -5693,7 +6102,13 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 4.5,
+        "sclMlt": 2.5,
+        "sitOff": 0.4,
+        "sitOffZ": 0,
+        "yOff": -2,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Angelic Wings",
@@ -5702,7 +6117,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 3,
+        "sitOff": -0.5,
+        "sitOffZ": -2,
+        "xOff": -2,
+        "yOff": -3
     },
     {
         "name": "Gradient Pennon",
@@ -5712,7 +6133,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 3,
+        "sitOff": -0.5,
+        "sitOffZ": -2,
+        "xOff": -2,
+        "yOff": -3
     },
     {
         "name": "Torn Aileron",
@@ -5721,7 +6148,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 3,
+        "sitOff": 0,
+        "sitOffZ": -2,
+        "xOff": -2,
+        "yOff": -3
     },
     {
         "name": "Cursed",
@@ -5731,7 +6164,13 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 3,
+        "sitOff": 0,
+        "sitOffZ": -2,
+        "xOff": -2,
+        "yOff": -3
     },
     {
         "name": "Butterfly",
@@ -5739,7 +6178,12 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3.5,
+        "sclMlt": 3.3,
+        "sitOff": -0.9,
+        "sitOffZ": -2.4,
+        "yOff": -2
     },
     {
         "name": "Mr. Rabbiton",
@@ -5747,7 +6191,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Madman",
@@ -5755,7 +6203,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.95,
+        "sitOff": 0.8,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Grizz Lee",
@@ -5763,7 +6215,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.95,
+        "sitOff": 0.8,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Claws",
@@ -5772,7 +6228,11 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Simba",
@@ -5780,7 +6240,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Captain Walrus",
@@ -5788,7 +6252,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Monke",
@@ -5796,7 +6264,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Lord Panda",
@@ -5804,7 +6276,11 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Ray Bam",
@@ -5812,7 +6288,12 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.51,
+        "sitOff": 1.1,
+        "scl": 1.4,
+        "xOff": 1.5,
+        "yOff": -1.2
     },
     {
         "name": "Gold Sunnies",
@@ -5821,7 +6302,12 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.51,
+        "sitOff": 1.1,
+        "scl": 1.4,
+        "xOff": 1.5,
+        "yOff": -1.2
     },
     {
         "name": "Queens Guard",
@@ -5829,7 +6315,11 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.6,
+        "sitOff": 0.9,
+        "scl": 0.9,
+        "yOff": -2.1
     },
     {
         "name": "Snowman",
@@ -5837,7 +6327,12 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.8,
+        "xOff": 1.5,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Misty",
@@ -5845,7 +6340,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Unicorn",
@@ -5853,7 +6352,11 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "TV Tron LCD",
@@ -5862,7 +6365,13 @@
         "rarity": 4,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
+        "frames": 2,
+        "frameT": 400
     },
     {
         "name": "Acidic Bane",
@@ -5871,7 +6380,12 @@
         "glow": true,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.3,
+        "xOff": 1.2,
+        "scl": 1.1,
+        "yOff": -1.2
     },
     {
         "name": "Tentacus",
@@ -5881,7 +6395,11 @@
         "glow": true,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.3,
+        "scl": 1.1,
+        "yOff": -1.2
     },
     {
         "name": "Soldier 159",
@@ -5890,7 +6408,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.3,
+        "scl": 1.1,
+        "yOff": -1.2
     },
     {
         "name": "Soldier 160",
@@ -5899,7 +6421,11 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.3,
+        "scl": 1.1,
+        "yOff": -1.2
     },
     {
         "name": "Templar",
@@ -5908,7 +6434,11 @@
         "type": 1,
         "glow": true,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.56,
+        "sitOff": 1.3,
+        "scl": 1.1,
+        "yOff": -1.2
     },
     {
         "name": "Phase Blades",
@@ -5918,6 +6448,12 @@
         "seas": 2,
         "keyW": "Back",
         "glow": true,
+        "scl": 0.00048112055276382,
+        "sclMlt": 0.000406279577889448,
+        "sitOff": -1.3,
+        "sitOffZ": -0.95,
+        "yOff": -1,
+        "xOff": -0.5,
         "rarity": 3
     },
     {
@@ -5926,7 +6462,14 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 2.5,
+        "sitOff": -0.8,
+        "sitOffZ": -2,
+        "yOff": -2,
+        "xOff": 0.5,
+        "scl": 4,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Unicorn Backpack",
@@ -5934,7 +6477,14 @@
         "rarity": 3,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 2.3,
+        "sitOff": -0.8,
+        "sitOffZ": -0.8,
+        "yOff": -2,
+        "xOff": -1.5,
+        "scl": 3.5,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Flame Talon",
@@ -5951,6 +6501,7 @@
         "seas": 2,
         "tex": "weapons/pat/1",
         "sameGlow": true,
+        "movT": 0.0015,
         "weapon": 7,
         "rarity": 5
     },
@@ -5961,6 +6512,7 @@
         "seas": 2,
         "tex": "weapons/pat/1",
         "sameGlow": true,
+        "movT": 0.0015,
         "weapon": 5,
         "rarity": 5
     },
@@ -5970,6 +6522,9 @@
         "type": 4,
         "rarity": 0,
         "seas": 2,
+        "opacity": 0.6,
+        "frames": 2,
+        "frameT": 250,
         "keyW": "Sprays"
     },
     {
@@ -5978,16 +6533,25 @@
         "type": 4,
         "rarity": 2,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 550,
         "keyW": "Sprays"
     },
     {
         "name": "Kunai",
         "keyW": "Knife",
         "glow": true,
+        "pulsT": 0.0015,
         "id": 4,
         "type": 3,
         "seas": 2,
-        "rarity": 4
+        "rarity": 4,
+        "scl": 2,
+        "sclMlt": 0.75,
+        "yOff": -1,
+        "sxOff": -0.15,
+        "szOff": 0.3
     },
     {
         "name": "Wrench",
@@ -5995,7 +6559,10 @@
         "id": 5,
         "type": 3,
         "seas": 2,
-        "rarity": 4
+        "rarity": 4,
+        "scl": 2,
+        "sclMlt": 0.8,
+        "yOff": -2.5
     },
     {
         "name": "Clown",
@@ -6003,7 +6570,11 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.9,
+        "scl": 1.6,
+        "yOff": -1.2
     },
     {
         "name": "Wink",
@@ -6011,6 +6582,9 @@
         "type": 4,
         "rarity": 1,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 550,
         "keyW": "Sprays"
     },
     {
@@ -6019,6 +6593,9 @@
         "type": 4,
         "rarity": 1,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 550,
         "keyW": "Sprays"
     },
     {
@@ -6027,6 +6604,9 @@
         "type": 4,
         "rarity": 1,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 550,
         "keyW": "Sprays"
     },
     {
@@ -6035,6 +6615,9 @@
         "type": 4,
         "rarity": 0,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 1200,
         "keyW": "Sprays"
     },
     {
@@ -6043,6 +6626,9 @@
         "type": 4,
         "rarity": 1,
         "seas": 2,
+        "opacity": 0.75,
+        "frames": 2,
+        "frameT": 400,
         "keyW": "Sprays"
     },
     {
@@ -6051,6 +6637,8 @@
         "type": 4,
         "rarity": 1,
         "seas": 2,
+        "opacity": 0.8,
+        "movT": -0.0025,
         "keyW": "Sprays"
     },
     {
@@ -6068,6 +6656,9 @@
         "type": 4,
         "rarity": 0,
         "seas": 2,
+        "opacity": 0.7,
+        "frames": 2,
+        "frameT": 550,
         "keyW": "Sprays"
     },
     {
@@ -6076,6 +6667,9 @@
         "type": 4,
         "rarity": 2,
         "seas": 2,
+        "opacity": 0.8,
+        "frames": 2,
+        "frameT": 350,
         "keyW": "Sprays"
     },
     {
@@ -6084,6 +6678,9 @@
         "type": 4,
         "rarity": 3,
         "seas": 2,
+        "opacity": 0.85,
+        "frames": 4,
+        "frameT": 200,
         "keyW": "Sprays"
     },
     {
@@ -6092,6 +6689,7 @@
         "pat": 6,
         "tex": "weapons/pat/6",
         "sameGlow": true,
+        "movT": 2e-4,
         "weapon": 1,
         "rarity": 5,
         "seas": 2
@@ -6102,6 +6700,7 @@
         "pat": 6,
         "tex": "weapons/pat/6",
         "sameGlow": true,
+        "movT": 2e-4,
         "weapon": 2,
         "rarity": 5,
         "seas": 2
@@ -6112,6 +6711,7 @@
         "pat": 6,
         "tex": "weapons/pat/6",
         "sameGlow": true,
+        "movT": 2e-4,
         "weapon": 4,
         "rarity": 5,
         "seas": 2
@@ -6122,6 +6722,7 @@
         "pat": 6,
         "tex": "weapons/pat/6",
         "sameGlow": true,
+        "movT": 2e-4,
         "weapon": 5,
         "rarity": 5,
         "seas": 2
@@ -6133,7 +6734,13 @@
         "rarity": 4,
         "type": 1,
         "keyW": "Head",
-        "seas": 2
+        "seas": 2,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
+        "frames": 2,
+        "frameT": 400
     },
     {
         "name": "Nova Pump",
@@ -6141,6 +6748,10 @@
         "blocked": true,
         "noSale": true,
         "midT": "weapons/weapon_6_38",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 0
@@ -6149,6 +6760,10 @@
         "name": "Roadkill",
         "mid": 0,
         "midT": "weapons/weapon_6_1",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 3
@@ -6157,6 +6772,11 @@
         "name": "Molten Core",
         "mid": 0,
         "midT": "weapons/weapon_6_2",
+        "pulsT": 0.0015,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "glow": true,
@@ -6166,6 +6786,10 @@
         "name": "Mosaik",
         "mid": 0,
         "midT": "weapons/weapon_6_3",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6174,6 +6798,10 @@
         "name": "Kiason",
         "mid": 0,
         "midT": "weapons/weapon_6_4",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6182,6 +6810,10 @@
         "name": "Monatomic",
         "mid": 0,
         "midT": "weapons/weapon_6_5",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "glow": true,
@@ -6191,6 +6823,10 @@
         "name": "Crystalline",
         "mid": 0,
         "midT": "weapons/weapon_6_6",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "glow": true,
@@ -6200,6 +6836,10 @@
         "name": "Blue Digital",
         "mid": 0,
         "midT": "weapons/weapon_6_7",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 0
@@ -6208,6 +6848,10 @@
         "name": "Green Digital",
         "mid": 0,
         "midT": "weapons/weapon_6_8",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 0
@@ -6216,6 +6860,10 @@
         "name": "Purple Digital",
         "mid": 0,
         "midT": "weapons/weapon_6_9",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 0
@@ -6224,6 +6872,10 @@
         "name": "Red Digital",
         "mid": 0,
         "midT": "weapons/weapon_6_10",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 0
@@ -6232,6 +6884,10 @@
         "name": "Pink Poly",
         "mid": 0,
         "midT": "weapons/weapon_6_11",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6240,6 +6896,10 @@
         "name": "Orange Poly",
         "mid": 0,
         "midT": "weapons/weapon_6_12",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6248,6 +6908,10 @@
         "name": "Green Poly",
         "mid": 0,
         "midT": "weapons/weapon_6_13",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6256,6 +6920,10 @@
         "name": "Blue Poly",
         "mid": 0,
         "midT": "weapons/weapon_6_14",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6264,6 +6932,10 @@
         "name": "Pink Drip",
         "mid": 0,
         "midT": "weapons/weapon_6_15",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6272,6 +6944,10 @@
         "name": "Blue Drip",
         "mid": 0,
         "midT": "weapons/weapon_6_16",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6280,6 +6956,10 @@
         "name": "Sepia",
         "mid": 0,
         "midT": "weapons/weapon_6_17",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6288,6 +6968,10 @@
         "name": "Olive",
         "mid": 0,
         "midT": "weapons/weapon_6_18",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6296,6 +6980,10 @@
         "name": "Spruce",
         "mid": 0,
         "midT": "weapons/weapon_6_19",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6304,6 +6992,10 @@
         "name": "Dijon",
         "mid": 0,
         "midT": "weapons/weapon_6_20",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6312,6 +7004,10 @@
         "name": "Red Splat",
         "mid": 0,
         "midT": "weapons/weapon_6_21",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6320,6 +7016,10 @@
         "name": "Purple Splat",
         "mid": 0,
         "midT": "weapons/weapon_6_22",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6328,6 +7028,10 @@
         "name": "Orange Splat",
         "mid": 0,
         "midT": "weapons/weapon_6_23",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6336,6 +7040,10 @@
         "name": "Green Splat",
         "mid": 0,
         "midT": "weapons/weapon_6_24",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6344,6 +7052,10 @@
         "name": "Yellow Comb",
         "mid": 0,
         "midT": "weapons/weapon_6_25",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6352,6 +7064,10 @@
         "name": "Red Comb",
         "mid": 0,
         "midT": "weapons/weapon_6_26",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6360,6 +7076,10 @@
         "name": "Green Comb",
         "mid": 0,
         "midT": "weapons/weapon_6_27",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6368,6 +7088,10 @@
         "name": "Blue Comb",
         "mid": 0,
         "midT": "weapons/weapon_6_28",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6376,6 +7100,10 @@
         "name": "Sandstorm",
         "mid": 0,
         "midT": "weapons/weapon_6_29",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6384,6 +7112,10 @@
         "name": "Picnic",
         "mid": 0,
         "midT": "weapons/weapon_6_30",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6392,6 +7124,10 @@
         "name": "Picasso",
         "mid": 0,
         "midT": "weapons/weapon_6_31",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6400,6 +7136,10 @@
         "name": "Snowy",
         "mid": 0,
         "midT": "weapons/weapon_6_32",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6408,6 +7148,10 @@
         "name": "Hazard",
         "mid": 0,
         "midT": "weapons/weapon_6_33",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6416,6 +7160,10 @@
         "name": "Cerise",
         "mid": 0,
         "midT": "weapons/weapon_6_34",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 2
@@ -6424,6 +7172,10 @@
         "name": "Orange Drip",
         "mid": 0,
         "midT": "weapons/weapon_6_35",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6432,6 +7184,10 @@
         "name": "Red Drip",
         "mid": 0,
         "midT": "weapons/weapon_6_36",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6440,6 +7196,10 @@
         "name": "Green Drip",
         "mid": 0,
         "midT": "weapons/weapon_6_37",
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "seas": 2,
         "weapon": 6,
         "rarity": 1
@@ -6576,7 +7336,14 @@
         "id": 3,
         "tex": 4,
         "type": 3,
-        "rarity": 3
+        "scl": 2.6,
+        "seas": 2,
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 3,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Aziru",
@@ -6586,7 +7353,14 @@
         "id": 3,
         "tex": 5,
         "type": 3,
-        "rarity": 4
+        "scl": 2.6,
+        "seas": 2,
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Clockwork",
@@ -6600,7 +7374,12 @@
         "mid": 2,
         "glow": true,
         "limited": true,
+        "scl": 0.9,
+        "mScl": 1,
+        "spnScl": 1.35,
+        "zOff": -0.25,
         "seas": 2,
+        "yOff": 0.05,
         "weapon": 1,
         "rarity": 6
     },
@@ -6611,7 +7390,10 @@
         "type": 3,
         "seas": 2,
         "rarity": 6,
-        "limited": true
+        "limited": true,
+        "scl": 2,
+        "sclMlt": 0.76,
+        "yOff": -2.5
     },
     {
         "name": "Facemask",
@@ -6620,11 +7402,18 @@
         "id": 60,
         "rarity": 2,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.54,
+        "sitOff": 0.9,
+        "scl": 1.6
     },
     {
         "name": "Spectralon",
         "id": 1,
+        "shirtCol": 16777215,
+        "sleeveCol": 16777215,
+        "pantsCol": 16777215,
+        "shoeCol": 16777215,
         "seas": 2,
         "type": 5,
         "rarity": 5,
@@ -6723,6 +7512,10 @@
         "creator": "Floatingpoint",
         "midT": "weapons/weapon_6_39",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 2
@@ -6749,6 +7542,10 @@
         "creator": "FlowerKid",
         "midT": "weapons/weapon_6_40",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "glow": true,
@@ -6803,6 +7600,10 @@
         "creator": "Kltter",
         "midT": "weapons/weapon_6_41",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "glow": true,
@@ -6829,6 +7630,10 @@
         "midT": "weapons/weapon_6_42",
         "creator": "cimota",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "seas": 2
@@ -6845,6 +7650,10 @@
         "creator": "floatingpoint",
         "midT": "weapons/weapon_6_43",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "seas": 2
@@ -6855,6 +7664,10 @@
         "midT": "weapons/weapon_6_44",
         "glow": true,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 2
@@ -6940,6 +7753,11 @@
         "noMuz": true,
         "mid": 0,
         "weapon": 3,
+        "spnScl": 1.3,
+        "scl": 0.9,
+        "mScl": 0.84,
+        "zOff": 0,
+        "yOff": 0,
         "rarity": 4,
         "seas": 2
     },
@@ -6975,6 +7793,10 @@
         "midT": "weapons/weapon_6_46",
         "glow": true,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 4,
         "seas": 2
@@ -7049,6 +7871,7 @@
         "name": "Diode",
         "id": 126,
         "creator": "Cimota",
+        "pulsT": 0.0015,
         "weapon": 2,
         "rarity": 4,
         "glow": true,
@@ -7059,8 +7882,17 @@
         "id": 24,
         "type": 2,
         "keyW": "Back",
+        "scl": 4.5,
+        "sclMlt": 3.1,
+        "spnSpd": 0.1,
+        "xOff": -3,
+        "sitOff": -0.9,
+        "sitOffZ": -0.2,
+        "yOff": -0.5,
         "rarity": 4,
-        "seas": 2
+        "seas": 2,
+        "rAnim": 0.0015,
+        "rAnimA": "x"
     },
     {
         "name": "Osiris' Servant",
@@ -7070,6 +7902,12 @@
         "noMuz": true,
         "mid": 0,
         "weapon": 3,
+        "pulsT": 0.0015,
+        "spnScl": 1.3,
+        "scl": 0.9,
+        "mScl": 0.84,
+        "zOff": 0,
+        "yOff": 0,
         "rarity": 5,
         "seas": 2
     },
@@ -7081,7 +7919,14 @@
         "glow": true,
         "type": 2,
         "keyW": "Back",
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 3,
+        "sitOff": -0.5,
+        "sitOffZ": -2,
+        "xOff": -2,
+        "yOff": -3,
+        "movT": 3e-4
     },
     {
         "name": "Shattercore",
@@ -7102,6 +7947,7 @@
         "weapon": 2,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 2
     },
     {
@@ -7145,11 +7991,16 @@
         "weapon": 7,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 2
     },
     {
         "name": "Sugarbear",
         "id": 2,
+        "shirtCol": 15956900,
+        "sleeveCol": 15956900,
+        "pantsCol": 15956900,
+        "shoeCol": 15956900,
         "seas": 2,
         "type": 5,
         "rarity": 4,
@@ -7163,6 +8014,7 @@
         "rarity": 4,
         "glow": true,
         "minGlo": 0.35,
+        "pulsT": 0.0015,
         "seas": 2
     },
     {
@@ -7192,7 +8044,10 @@
         "id": 62,
         "type": 4,
         "rarity": 2,
-        "seas": 2
+        "seas": 2,
+        "opacity": 0.85,
+        "frames": 2,
+        "frameT": 550
     },
     {
         "name": "Carambit",
@@ -7201,7 +8056,11 @@
         "id": 8,
         "type": 3,
         "seas": 2,
-        "rarity": 4
+        "rarity": 4,
+        "scl": 2,
+        "sclMlt": 0.76,
+        "xOff": -0.5,
+        "yOff": -2
     },
     {
         "name": "Carrot Top",
@@ -7210,7 +8069,10 @@
         "id": 61,
         "rarity": 2,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.8,
+        "sitOff": 0.55,
+        "scl": 1.6
     },
     {
         "name": "Mr Chick",
@@ -7219,7 +8081,11 @@
         "id": 62,
         "rarity": 2,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.8,
+        "xOff": 0.8,
+        "scl": 1.6
     },
     {
         "name": "Bunny",
@@ -7228,7 +8094,11 @@
         "id": 63,
         "rarity": 2,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.89,
+        "sitOff": 0.8,
+        "scl": 1.6,
+        "yOff": -1
     },
     {
         "name": "Munchie",
@@ -7237,7 +8107,11 @@
         "id": 64,
         "rarity": 1,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.5,
+        "sitOff": 1.6,
+        "sitOffZ": 1,
+        "scl": 1.6
     },
     {
         "name": "Arrowhead",
@@ -7246,7 +8120,11 @@
         "id": 65,
         "rarity": 1,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.5,
+        "sitOff": 1,
+        "scl": 1.6,
+        "yOff": -2
     },
     {
         "name": "Egghead",
@@ -7255,7 +8133,10 @@
         "id": 66,
         "rarity": 1,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.7,
+        "sitOff": 0.79,
+        "scl": 1.6
     },
     {
         "name": "Egg Basket",
@@ -7264,7 +8145,14 @@
         "id": 25,
         "rarity": 2,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2,
+        "sitOff": -0.8,
+        "sitOffZ": -0.63,
+        "xOff": -1,
+        "yOff": -0.8,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Red Ribbon",
@@ -7273,7 +8161,12 @@
         "id": 26,
         "rarity": 3,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2,
+        "sitOff": -1.4,
+        "sitOffZ": -0.63,
+        "xOff": -2
     },
     {
         "name": "Carockets",
@@ -7282,7 +8175,13 @@
         "id": 27,
         "rarity": 3,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2,
+        "sitOff": -0.9,
+        "sitOffZ": -0.63,
+        "xOff": -0.7,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Carrot Blades",
@@ -7291,7 +8190,14 @@
         "id": 28,
         "rarity": 3,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2,
+        "sitOff": -0.9,
+        "sitOffZ": -0.3,
+        "xOff": -0.4,
+        "yOff": -0.6,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Chick N' Basket",
@@ -7300,7 +8206,13 @@
         "id": 29,
         "rarity": 3,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2,
+        "sitOff": -1.1,
+        "sitOffZ": -0.63,
+        "xOff": -1,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Just N' Egg",
@@ -7309,7 +8221,13 @@
         "id": 30,
         "rarity": 1,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2.5,
+        "sitOff": -0.5,
+        "sitOffZ": -0.63,
+        "xOff": -1,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Egg Tamer",
@@ -7317,13 +8235,25 @@
         "keyW": "Back",
         "id": 31,
         "type": 2,
+        "scl": 3,
+        "sclMlt": 2.6,
+        "sitOff": -1.1,
+        "sitOffZ": -2,
+        "yOff": -0.9,
+        "xOff": -0.3,
         "rarity": 5,
-        "seas": 2
+        "seas": 2,
+        "rAnim": 0.0015,
+        "rAnimA": "x"
     },
     {
         "name": "Carotine",
         "limT": "Easter",
         "id": 3,
+        "shirtCol": 13203507,
+        "sleeveCol": 3911758,
+        "pantsCol": 13203507,
+        "shoeCol": 3911758,
         "seas": 2,
         "type": 5,
         "rarity": 4,
@@ -7394,6 +8324,7 @@
         "weapon": 1,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 2
     },
     {
@@ -7479,6 +8410,7 @@
         "weapon": 2,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 2
     },
     {
@@ -7551,6 +8483,10 @@
         "limT": "Easter",
         "midT": "weapons/weapon_6_47",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 2
@@ -7560,6 +8496,10 @@
         "limT": "Easter",
         "midT": "weapons/weapon_6_48",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 2
@@ -7569,6 +8509,10 @@
         "limT": "Easter",
         "midT": "weapons/weapon_6_49",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 2
@@ -7578,6 +8522,10 @@
         "limT": "Easter",
         "midT": "weapons/weapon_6_50",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 2
@@ -7587,6 +8535,10 @@
         "limT": "Easter",
         "midT": "weapons/weapon_6_51",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 2
@@ -7597,6 +8549,10 @@
         "creator": "FlowerKid",
         "midT": "weapons/weapon_6_52",
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "seas": 2
@@ -7608,6 +8564,10 @@
         "midT": "weapons/weapon_6_53",
         "glow": true,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 3,
         "seas": 2
@@ -7668,8 +8628,14 @@
         "id": 3,
         "tex": 6,
         "type": 3,
+        "scl": 2.6,
         "seas": 2,
-        "rarity": 4
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Ceretta 92",
@@ -7679,6 +8645,11 @@
         "noEmis": true,
         "mid": 2,
         "weapon": 3,
+        "spnScl": 1.3,
+        "scl": 0.9,
+        "mScl": 0.84,
+        "zOff": 0,
+        "yOff": 0,
         "rarity": 5,
         "seas": 2
     },
@@ -7690,7 +8661,13 @@
         "id": 30,
         "rarity": 4,
         "type": 2,
-        "seas": 2
+        "seas": 2,
+        "scl": 3,
+        "sclMlt": 2.5,
+        "sitOff": -0.5,
+        "sitOffZ": -0.63,
+        "xOff": -1,
+        "xRot": 3.141592653589793
     },
     {
         "name": "Vertigo",
@@ -7699,7 +8676,12 @@
         "id": 67,
         "rarity": 6,
         "type": 1,
-        "seas": 2
+        "seas": 2,
+        "sclMlt": 0.9,
+        "sitOff": -0.8,
+        "scl": 1.6,
+        "rAnim": -0.0022,
+        "rAnimA": "y"
     },
     {
         "name": "U.F.0",
@@ -7708,6 +8690,12 @@
         "rarity": 5,
         "type": 1,
         "seas": 2,
+        "sclMlt": 1.75,
+        "sitOff": -0.5,
+        "xOff": -3.6,
+        "scl": 1.6,
+        "rAnim": -0.0022,
+        "rAnimA": "y",
         "trans": true,
         "glow": true
     },
@@ -7756,6 +8744,10 @@
     {
         "name": "Coldsnap",
         "id": 4,
+        "shirtCol": 2862847,
+        "sleeveCol": 16449023,
+        "pantsCol": 2862847,
+        "shoeCol": 16449023,
         "seas": 3,
         "type": 5,
         "rarity": 4
@@ -7763,6 +8755,10 @@
     {
         "name": "Crimson",
         "id": 5,
+        "shirtCol": 16724787,
+        "sleeveCol": 526344,
+        "pantsCol": 16724787,
+        "shoeCol": 526344,
         "seas": 3,
         "type": 5,
         "rarity": 4
@@ -7770,6 +8766,10 @@
     {
         "name": "Lavender",
         "id": 6,
+        "shirtCol": 11809791,
+        "sleeveCol": 6501375,
+        "pantsCol": 11809791,
+        "shoeCol": 6501375,
         "seas": 3,
         "type": 5,
         "rarity": 4
@@ -7789,6 +8789,7 @@
         "weapon": 1,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -7840,6 +8841,7 @@
         "weapon": 1,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -7883,6 +8885,7 @@
         "weapon": 1,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -7918,6 +8921,7 @@
         "weapon": 1,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -8249,6 +9253,7 @@
         "weapon": 2,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -8292,6 +9297,8 @@
         "creator": "Jonschmiddy",
         "weapon": 2,
         "rarity": 3,
+        "frames": 4,
+        "frameT": 250,
         "seas": 3
     },
     {
@@ -8345,6 +9352,8 @@
         "creator": "jonschmiddy",
         "weapon": 2,
         "rarity": 4,
+        "frames": 4,
+        "frameT": 100,
         "seas": 3
     },
     {
@@ -8372,6 +9381,7 @@
         "weapon": 2,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -8399,6 +9409,8 @@
         "weapon": 2,
         "rarity": 4,
         "glow": true,
+        "frames": 2,
+        "frameT": 250,
         "seas": 3
     },
     {
@@ -8408,6 +9420,7 @@
         "weapon": 2,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -8838,6 +9851,8 @@
         "creator": "Lime",
         "weapon": 4,
         "rarity": 3,
+        "frames": 4,
+        "frameT": 250,
         "seas": 3
     },
     {
@@ -9116,6 +10131,11 @@
         "name": "Lineride",
         "midT": 54,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
+        "pulsT": 0.0015,
         "creator": "Kltter",
         "weapon": 6,
         "rarity": 4,
@@ -9126,6 +10146,10 @@
         "name": "Halogen",
         "midT": 55,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "floatingpoint",
         "weapon": 6,
         "rarity": 2,
@@ -9136,16 +10160,25 @@
         "name": "Adventurine",
         "midT": 56,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Nxbulah",
         "weapon": 6,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
         "name": "Surreal",
         "midT": 57,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Nxbulah",
         "weapon": 6,
         "rarity": 4,
@@ -9156,6 +10189,10 @@
         "name": "Red Supersport",
         "midT": 58,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Kltter",
         "weapon": 6,
         "rarity": 3,
@@ -9165,6 +10202,10 @@
         "name": "Pink Supersport",
         "midT": 59,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Kltter",
         "weapon": 6,
         "rarity": 3,
@@ -9174,6 +10215,10 @@
         "name": "Exponentiat",
         "midT": 60,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Cimota",
         "weapon": 6,
         "rarity": 2,
@@ -9183,6 +10228,10 @@
         "name": "Ethereal",
         "midT": 61,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Nxbulah",
         "weapon": 6,
         "rarity": 3,
@@ -9193,6 +10242,10 @@
         "name": "Spectate",
         "midT": 62,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Cimota",
         "weapon": 6,
         "rarity": 3,
@@ -9203,6 +10256,10 @@
         "name": "Sunburst",
         "midT": 63,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "FlowerKid",
         "weapon": 6,
         "rarity": 4,
@@ -9213,6 +10270,10 @@
         "name": "Hydrofluric",
         "midT": 64,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Cimota",
         "weapon": 6,
         "rarity": 3,
@@ -9223,6 +10284,10 @@
         "name": "Mech Rainbow",
         "midT": 65,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Lime",
         "weapon": 6,
         "rarity": 2,
@@ -9233,6 +10298,10 @@
         "name": "Midnight",
         "midT": 66,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "creator": "Lime",
         "weapon": 6,
         "rarity": 3,
@@ -9243,6 +10312,10 @@
         "name": "Lime",
         "midT": 67,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9251,6 +10324,10 @@
         "name": "Berry",
         "midT": 68,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9259,6 +10336,10 @@
         "name": "Indigo",
         "midT": 69,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9267,6 +10348,10 @@
         "name": "Citrus",
         "midT": 70,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9275,6 +10360,10 @@
         "name": "Tangerine",
         "midT": 71,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9283,6 +10372,10 @@
         "name": "Grape",
         "midT": 72,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9291,6 +10384,10 @@
         "name": "Canvas",
         "midT": 73,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9299,6 +10396,10 @@
         "name": "Libra",
         "midT": 74,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9307,6 +10408,10 @@
         "name": "Psychedelic",
         "midT": 75,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9315,6 +10420,10 @@
         "name": "Violette",
         "midT": 76,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9323,6 +10432,10 @@
         "name": "Marv",
         "midT": 77,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9331,6 +10444,10 @@
         "name": "Basel",
         "midT": 78,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9339,6 +10456,10 @@
         "name": "Tiger Blood",
         "midT": 79,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9347,6 +10468,10 @@
         "name": "Scalamandre",
         "midT": 80,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9355,6 +10480,10 @@
         "name": "Tiger Maine",
         "midT": 81,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9363,6 +10492,10 @@
         "name": "Leopard",
         "midT": 82,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9371,6 +10504,10 @@
         "name": "Metallic Swirl",
         "midT": 83,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9379,6 +10516,10 @@
         "name": "Tessilate",
         "midT": 84,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9387,6 +10528,10 @@
         "name": "Bubblegum",
         "midT": 85,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9395,6 +10540,10 @@
         "name": "Peppermint",
         "midT": 86,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9403,6 +10552,10 @@
         "name": "Spearmint",
         "midT": 87,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9411,6 +10564,10 @@
         "name": "Obsydian",
         "midT": 88,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9419,6 +10576,10 @@
         "name": "Pink Panther",
         "midT": 89,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9427,6 +10588,10 @@
         "name": "Amber",
         "midT": 90,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9435,6 +10600,10 @@
         "name": "Clover",
         "midT": 91,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9443,6 +10612,10 @@
         "name": "Multicam",
         "midT": 92,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9451,6 +10624,10 @@
         "name": "Aquaric",
         "midT": 93,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9459,6 +10636,10 @@
         "name": "Heather",
         "midT": 94,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9467,6 +10648,10 @@
         "name": "Carbonfibre",
         "midT": 95,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9475,6 +10660,10 @@
         "name": "Cobra",
         "midT": 96,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9483,6 +10672,10 @@
         "name": "Python",
         "midT": 97,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 2,
         "seas": 3
@@ -9491,6 +10684,10 @@
         "name": "Lost",
         "midT": 98,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9499,6 +10696,10 @@
         "name": "Blue Maze",
         "midT": 99,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9507,6 +10708,10 @@
         "name": "Yellow Maze",
         "midT": 100,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 0,
         "seas": 3
@@ -9515,6 +10720,10 @@
         "name": "Morgana",
         "midT": 101,
         "mid": 0,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "weapon": 6,
         "rarity": 1,
         "seas": 3
@@ -9560,6 +10769,7 @@
         "weapon": 5,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -9569,6 +10779,7 @@
         "weapon": 5,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -9613,6 +10824,7 @@
         "weapon": 5,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -9622,6 +10834,7 @@
         "weapon": 5,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -9984,6 +11197,7 @@
         "weapon": 7,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -9993,6 +11207,7 @@
         "weapon": 7,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -10002,6 +11217,7 @@
         "weapon": 7,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -10011,6 +11227,7 @@
         "weapon": 7,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -10020,6 +11237,7 @@
         "weapon": 7,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -10272,6 +11490,9 @@
         "id": 9,
         "rarity": 4,
         "type": 3,
+        "sxOff": 0.4,
+        "scl": 1.4,
+        "yOff": -2,
         "keyW": "Melee",
         "seas": 3
     },
@@ -10280,6 +11501,12 @@
         "id": 10,
         "rarity": 4,
         "type": 3,
+        "sxRot": -0.2,
+        "syOff": 0.1,
+        "szOff": 0.2,
+        "scl": 0.8,
+        "yOff": -1,
+        "xOff": -1,
         "keyW": "Melee",
         "seas": 3
     },
@@ -10288,7 +11515,12 @@
         "id": 11,
         "rarity": 5,
         "type": 3,
+        "sxOff": 0.02,
+        "sclMlt": 1.1,
+        "scl": 2,
+        "yOff": -2,
         "glow": true,
+        "pulsT": 0.1,
         "keyW": "Melee",
         "seas": 3
     },
@@ -10297,7 +11529,12 @@
         "tex": 1,
         "id": 11,
         "rarity": 5,
+        "sxOff": 0.02,
+        "sclMlt": 1.1,
         "glow": true,
+        "scl": 2,
+        "yOff": -2,
+        "pulsT": 0.1,
         "type": 3,
         "keyW": "Melee",
         "seas": 3
@@ -10307,6 +11544,9 @@
         "id": 12,
         "rarity": 5,
         "type": 3,
+        "scl": 0.8,
+        "yOff": -1,
+        "xOff": -0.5,
         "keyW": "Melee",
         "seas": 3
     },
@@ -10314,6 +11554,7 @@
         "name": "Disintegrator",
         "mid": 0,
         "glow": true,
+        "pulsT": 0.03,
         "seas": 3,
         "weapon": 2,
         "rarity": 6
@@ -10324,20 +11565,33 @@
         "weapon": 12,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 4
     },
     {
         "name": "Anti-Matter",
         "mid": 4,
         "glow": true,
+        "pulsT": 0.0015,
+        "scl": 0.9,
+        "mScl": 1,
+        "spnScl": 1.35,
+        "zOff": -0.25,
         "seas": 3,
+        "yOff": 0.05,
         "weapon": 1,
         "rarity": 6
     },
     {
         "name": "Good Ol' Days",
         "mid": 3,
+        "pulsT": 0.0015,
+        "scl": 0.9,
+        "mScl": 1,
+        "spnScl": 1.35,
+        "zOff": -0.25,
         "seas": 3,
+        "yOff": 0.05,
         "weapon": 1,
         "rarity": 5
     },
@@ -10347,6 +11601,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10356,6 +11612,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10364,6 +11622,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10373,6 +11633,8 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10381,6 +11643,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10390,6 +11655,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10398,6 +11666,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10407,6 +11678,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10415,6 +11689,10 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "zOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10424,6 +11702,10 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "xOff": -1,
+        "zOff": -1,
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10432,6 +11714,9 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "xOff": -1,
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10440,6 +11725,8 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10449,6 +11736,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.7,
+        "sitOff": 0.71,
         "seas": 3
     },
     {
@@ -10457,6 +11746,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10466,6 +11757,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10475,6 +11768,9 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -2,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10483,6 +11779,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10492,6 +11790,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10500,6 +11800,10 @@
         "rarity": 4,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.62,
+        "sitOff": -0.35,
+        "rAnim": -0.004,
+        "rAnimA": "y",
         "seas": 3
     },
     {
@@ -10508,6 +11812,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10516,6 +11822,10 @@
         "rarity": 5,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": -0.68,
+        "rAnim": -0.0016,
+        "rAnimA": "y",
         "seas": 3
     },
     {
@@ -10526,6 +11836,9 @@
         "noHead": true,
         "type": 1,
         "keyW": "Hat",
+        "xOff": -1,
+        "sclMlt": 0.5,
+        "sitOff": 1.05,
         "seas": 3
     },
     {
@@ -10534,6 +11847,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10542,6 +11857,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10550,6 +11867,8 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10560,6 +11879,8 @@
         "noHead": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10568,6 +11889,9 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10576,6 +11900,8 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10585,6 +11911,8 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10593,6 +11921,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10602,6 +11932,8 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10611,6 +11943,10 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "zOff": -1,
+        "sitOff": 1,
         "seas": 3
     },
     {
@@ -10619,6 +11955,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 1,
         "seas": 3
     },
     {
@@ -10628,6 +11967,9 @@
         "rarity": 0,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -1,
+        "sitOff": 1,
         "seas": 3
     },
     {
@@ -10636,6 +11978,9 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "zOff": -1,
+        "sitOff": 0.9,
         "seas": 3
     },
     {
@@ -10644,6 +11989,11 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "zOff": -1,
+        "sitOff": 0.9,
+        "xOff": 0.5,
+        "yOff": -1,
         "seas": 3
     },
     {
@@ -10653,6 +12003,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.56,
+        "sitOff": 0.75,
         "seas": 3
     },
     {
@@ -10662,6 +12014,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.65,
+        "sitOff": 0.62,
         "seas": 3
     },
     {
@@ -10672,6 +12026,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.65,
+        "sitOff": 0.62,
         "seas": 3
     },
     {
@@ -10681,6 +12037,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.6,
+        "sitOff": 0.71,
         "seas": 3
     },
     {
@@ -10690,6 +12048,8 @@
         "type": 1,
         "keyW": "Hat",
         "noHead": true,
+        "sclMlt": 0.56,
+        "sitOff": 0.75,
         "seas": 3
     },
     {
@@ -10698,6 +12058,10 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "xOff": -0.5,
+        "zOff": -0.5,
+        "sitOff": 0.9,
         "seas": 3
     },
     {
@@ -10707,6 +12071,10 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "xOff": -0.5,
+        "zOff": -0.5,
+        "sclMlt": 0.5,
+        "sitOff": 0.9,
         "seas": 3
     },
     {
@@ -10714,8 +12082,12 @@
         "id": 101,
         "rarity": 4,
         "glow": true,
+        "frames": 4,
+        "frameT": 250,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.9,
         "seas": 3
     },
     {
@@ -10724,6 +12096,9 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "zOff": -2,
+        "sitOff": 0.9,
         "seas": 3
     },
     {
@@ -10733,6 +12108,8 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10742,6 +12119,8 @@
         "type": 1,
         "noHead": true,
         "keyW": "Hat",
+        "sclMlt": 0.8,
+        "sitOff": 0.75,
         "seas": 3
     },
     {
@@ -10750,6 +12129,9 @@
         "rarity": 1,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
+        "xOff": -1,
         "seas": 3
     },
     {
@@ -10759,6 +12141,8 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.6,
+        "sitOff": 0.8,
         "seas": 3
     },
     {
@@ -10767,6 +12151,9 @@
         "rarity": 3,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.9,
+        "xOff": -1,
         "seas": 3
     },
     {
@@ -10776,6 +12163,8 @@
         "glow": true,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.7,
         "seas": 3
     },
     {
@@ -10784,6 +12173,8 @@
         "rarity": 2,
         "type": 1,
         "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": 0.7,
         "seas": 3
     },
     {
@@ -10832,14 +12223,23 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2,
+        "sitOff": -1.3,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
         "name": "KrunkBoy",
         "id": 33,
         "rarity": 3,
+        "frames": 4,
+        "frameT": 500,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.2,
+        "spnScl": 2.4,
+        "sitOff": -0.7,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10848,6 +12248,10 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.2,
+        "spnScl": 2.4,
+        "sitOff": -0.7,
+        "sitOffZ": -0.65,
         "seas": 3
     },
     {
@@ -10857,6 +12261,11 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.2,
+        "spnScl": 2.4,
+        "xOff": -1,
+        "sitOff": -0.7,
+        "sitOffZ": -0.65,
         "seas": 3
     },
     {
@@ -10865,6 +12274,13 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sitOff": -0.1,
+        "sitOffZ": -0.65,
         "seas": 3
     },
     {
@@ -10873,6 +12289,10 @@
         "rarity": 0,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "sitOff": -1.1,
+        "sitOffZ": -0.65,
         "seas": 3
     },
     {
@@ -10880,8 +12300,12 @@
         "id": 37,
         "rarity": 3,
         "glow": true,
+        "pulsT": 0.0015,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.6,
+        "sitOff": -0.75,
+        "sitOffZ": -0.75,
         "seas": 3
     },
     {
@@ -10891,6 +12315,12 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -1,
+        "zOff": 1,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10900,6 +12330,12 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -1,
+        "zOff": 1,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10908,6 +12344,12 @@
         "rarity": 2,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.6,
+        "spnScl": 2.6,
+        "xOff": -1,
+        "zOff": 1,
+        "sitOff": -0.85,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10916,6 +12358,12 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xRot": 2,
+        "xOff": -2,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10924,6 +12372,11 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
+        "xOff": -2,
         "seas": 3
     },
     {
@@ -10933,6 +12386,11 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
+        "xOff": -2,
         "seas": 3
     },
     {
@@ -10942,6 +12400,12 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.2,
+        "spnScl": 2.4,
+        "xOff": -1,
+        "zOff": 1,
+        "sitOff": -0.9,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10950,6 +12414,11 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -1,
+        "sitOff": -0.9,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10959,6 +12428,11 @@
         "rarity": 1,
         "type": 2,
         "keyW": "Body",
+        "spnScl": 2.6,
+        "xOff": -1,
+        "sclMlt": 2.4,
+        "sitOff": -0.9,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10968,6 +12442,11 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -1,
+        "sitOff": -0.9,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10976,14 +12455,30 @@
         "rarity": 3,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -2,
+        "zOff": -1,
+        "xRot": 2,
+        "sitOff": -0.9,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
         "name": "Kruncade",
         "id": 50,
         "rarity": 3,
+        "frames": 2,
+        "frameT": 250,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sitOff": -1,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -10992,6 +12487,11 @@
         "rarity": 3,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "sitOff": -1.1,
+        "sitOffZ": -0.6,
+        "xOff": -2,
+        "spnScl": 2.6,
         "seas": 3
     },
     {
@@ -11004,6 +12504,13 @@
         "limited": true,
         "type": 2,
         "keyW": "Body",
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.5,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -11017,6 +12524,13 @@
         "limited": true,
         "type": 2,
         "keyW": "Body",
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.5,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -11026,6 +12540,12 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "xOff": -1,
+        "yOff": 2,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.65,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -11036,6 +12556,12 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
+        "xOff": -1,
+        "yOff": 2,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.65,
+        "sitOffZ": -0.6,
         "seas": 3
     },
     {
@@ -11044,6 +12570,11 @@
         "rarity": 0,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -2,
+        "sitOff": -0.5,
+        "sitOffZ": -0.7,
         "seas": 3
     },
     {
@@ -11053,6 +12584,11 @@
         "rarity": 0,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -2,
+        "sitOff": -0.5,
+        "sitOffZ": -0.7,
         "seas": 3
     },
     {
@@ -11061,6 +12597,11 @@
         "rarity": 0,
         "type": 2,
         "keyW": "Body",
+        "sclMlt": 2.4,
+        "spnScl": 2.6,
+        "xOff": -2,
+        "sitOff": -1.4,
+        "sitOffZ": -0.7,
         "seas": 3
     },
     {
@@ -11072,11 +12613,18 @@
         "noHead": true,
         "type": 1,
         "keyW": "Hat",
+        "xOff": -1,
+        "sclMlt": 0.5,
+        "sitOff": 1.05,
         "seas": 3
     },
     {
         "name": "Terra",
         "id": 7,
+        "shirtCol": 1486651,
+        "sleeveCol": 1842204,
+        "pantsCol": 1486651,
+        "shoeCol": 1842204,
         "seas": 3,
         "type": 5,
         "rarity": 4
@@ -11084,6 +12632,10 @@
     {
         "name": "Amberite",
         "id": 8,
+        "shirtCol": 16765734,
+        "sleeveCol": 1842204,
+        "pantsCol": 16765734,
+        "shoeCol": 1842204,
         "seas": 3,
         "type": 5,
         "rarity": 4
@@ -11116,6 +12668,9 @@
         "weapon": 8,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
+        "frames": 4,
+        "framesT": 250,
         "seas": 3
     },
     {
@@ -11445,6 +13000,8 @@
         "creator": "Jonschmiddy",
         "weapon": 10,
         "rarity": 3,
+        "frames": 4,
+        "frameT": 250,
         "seas": 3
     },
     {
@@ -12078,8 +13635,14 @@
         "id": 3,
         "tex": 6,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 3
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 3,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Crimson Tiger",
@@ -12088,8 +13651,14 @@
         "id": 3,
         "tex": 7,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 3
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 3,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Vaporblade",
@@ -12098,8 +13667,14 @@
         "id": 3,
         "tex": 8,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 4
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Verdant",
@@ -12108,8 +13683,14 @@
         "id": 3,
         "tex": 9,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 3
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 3,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Zvilpogghua",
@@ -12117,9 +13698,17 @@
         "keyW": "Knife",
         "id": 3,
         "tex": 10,
+        "frames": 4,
+        "frameT": 250,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 4
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
         "name": "Volcanic",
@@ -12127,20 +13716,32 @@
         "keyW": "Knife",
         "id": 3,
         "tex": 11,
+        "frames": 4,
+        "frameT": 250,
         "type": 3,
+        "scl": 2.6,
         "seas": 3,
-        "rarity": 4
+        "sclMlt": 1,
+        "yOff": -1,
+        "xOff": -1.5,
+        "rarity": 4,
+        "sxRot": 0.3,
+        "sxOff": 0.1
     },
     {
-        "name": "Flinktstone",
+        "name": "Flintstone",
         "creator": "Skriller33",
         "keyW": "Knife",
         "animInd": 1,
         "glow": true,
+        "pulsT": 0.1,
         "id": 2,
         "tex": 2,
         "type": 3,
+        "scl": 3,
         "seas": 3,
+        "sclMlt": 0.98,
+        "yOff": -2,
         "rarity": 4
     },
     {
@@ -12152,7 +13753,10 @@
         "movT": 0.0015,
         "id": 0,
         "type": 3,
+        "scl": 2.3,
         "seas": 3,
+        "sclMlt": 0.9,
+        "yOff": -2,
         "rarity": 5
     },
     {
@@ -12174,7 +13778,11 @@
         "glow": true,
         "type": 2,
         "keyW": "Body",
-        "seas": 3
+        "sclMlt": 2.4,
+        "sitOff": -0.65,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "movT": 3e-4
     },
     {
         "name": "Pellucid",
@@ -12205,9 +13813,1089 @@
         "creator": "???",
         "mid": 0,
         "midT": 102,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
         "sameGlow": true,
+        "movT": 3e-4,
         "weapon": 6,
+        "opac": 0.6,
         "rarity": 5,
+        "seas": 3
+    },
+    {
+        "name": "Soul Harvest",
+        "id": 53,
+        "tex": 3,
+        "rarity": 5,
+        "glow": true,
+        "type": 2,
+        "opac": 0.6,
+        "keyW": "Body",
+        "sclMlt": 2.4,
+        "sitOff": -0.65,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "movT": 3e-4
+    },
+    {
+        "name": "Hackusate",
+        "id": 203,
+        "weapon": 1,
+        "rarity": 5,
+        "rgb": true,
+        "rgbs": 0.5,
+        "wire": true,
+        "seas": 3
+    },
+    {
+        "name": "Kortex",
+        "id": 204,
+        "weapon": 1,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Bloodlust",
+        "id": 185,
+        "creator": "FlowerKid",
+        "weapon": 4,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Hellhound",
+        "id": 186,
+        "creator": "Kilfy",
+        "weapon": 4,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Explora",
+        "id": 187,
+        "creator": "Luminae",
+        "weapon": 4,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Outrunner",
+        "creator": "Kltter",
+        "mid": 0,
+        "midT": 103,
+        "scl": 0.9,
+        "mScl": 1,
+        "zOff": 0.28,
+        "yOff": -0.5,
+        "glow": true,
+        "pulsT": 0.0015,
+        "weapon": 6,
+        "rarity": 4,
+        "seas": 3
+    },
+    {
+        "name": "Stanik",
+        "mid": 0,
+        "midT": 41,
+        "creator": "Cimota",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Eaglx",
+        "mid": 0,
+        "midT": 42,
+        "creator": "Kltter",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Aesthetica",
+        "mid": 0,
+        "midT": 43,
+        "creator": "Luminae",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Aries",
+        "mid": 0,
+        "midT": 44,
+        "creator": "Chromatikk",
+        "weapon": 8,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "1 Year Cape",
+        "id": 52,
+        "rarity": 5,
+        "side": 2,
+        "glow": true,
+        "noSale": true,
+        "limited": true,
+        "type": 2,
+        "keyW": "Body",
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.5,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "illicit": true,
+        "funds": 100,
+        "req": "1 Year Old Account"
+    },
+    {
+        "name": "2 Year Cape",
+        "tex": 1,
+        "id": 52,
+        "rarity": 5,
+        "side": 2,
+        "glow": true,
+        "noSale": true,
+        "limited": true,
+        "type": 2,
+        "keyW": "Body",
+        "xRot": 2,
+        "xOff": -1.5,
+        "yOff": -0.5,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.5,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "illicit": true,
+        "funds": 100,
+        "req": "2 Year Old Account"
+    },
+    {
+        "name": "Puppet Master",
+        "id": 110,
+        "rarity": 4,
+        "noHead": true,
+        "type": 1,
+        "keyW": "Hat",
+        "xOff": 1,
+        "yOff": -0.5,
+        "sclMlt": 0.5,
+        "sitOff": 1.05,
+        "seas": 3,
+        "illicit": true,
+        "funds": 2e3,
+        "reqT": "No Greenskins!"
+    },
+    {
+        "name": "Nuke Tamer",
+        "keyW": "Back",
+        "id": 56,
+        "type": 2,
+        "scl": 3,
+        "sclMlt": 2.6,
+        "sitOff": -1.1,
+        "sitOffZ": -2,
+        "yOff": -0.9,
+        "xOff": -0.3,
+        "rarity": 5,
+        "seas": 3,
+        "rAnim": -0.002,
+        "rAnimA": "x",
+        "illicit": true,
+        "funds": 3e3,
+        "reqT": "call in 1000 Nukes"
+    },
+    {
+        "name": "Floatie",
+        "id": 0,
+        "type": 6,
+        "keyW": "Waist",
+        "scl": 2.1,
+        "spnScl": 2.5,
+        "sclMlt": 1.8,
+        "yOff": -1.5,
+        "xOff": 0.5,
+        "prevRot": 4,
+        "rarity": 5,
+        "seas": 3
+    },
+    {
+        "name": "Combat Banana",
+        "keyW": "Knife",
+        "id": 14,
+        "type": 3,
+        "scl": 1.7,
+        "sclMlt": 0.9,
+        "yOff": -0.5,
+        "xOff": -1,
+        "rarity": 4,
+        "seas": 3
+    },
+    {
+        "name": "Banana Tail",
+        "id": 2,
+        "type": 6,
+        "keyW": "Waist",
+        "scl": 2.1,
+        "spnScl": 2.5,
+        "sclMlt": 2.5,
+        "sitOff": 1.9,
+        "sitOffZ": -3,
+        "yOff": -1.5,
+        "xOff": 0.5,
+        "prevRot": 4,
+        "rarity": 4,
+        "seas": 3
+    },
+    {
+        "name": "Cyber Midnight",
+        "id": 207,
+        "creator": "SplatterSponge",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Delirium",
+        "id": 206,
+        "creator": "floatingpoint",
+        "weapon": 2,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Mosasaur",
+        "id": 207,
+        "creator": "BigBBaniel",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Captane",
+        "id": 134,
+        "creator": "Nxbulah",
+        "weapon": 5,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Tiger Cascade",
+        "id": 122,
+        "creator": "Multihawk",
+        "weapon": 7,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Flamer",
+        "mid": 0,
+        "midT": 45,
+        "creator": "Multihawk",
+        "weapon": 8,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "MOS",
+        "mid": 0,
+        "midT": 46,
+        "creator": "Kltter",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Dynamite",
+        "mid": 0,
+        "midT": 43,
+        "creator": "Destroy007",
+        "weapon": 10,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Rye",
+        "id": 124,
+        "creator": "Nxbulah",
+        "weapon": 15,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Isotope Mk2",
+        "id": 125,
+        "creator": "Multihawk",
+        "weapon": 15,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Izulu",
+        "id": 208,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 5,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Izula",
+        "id": 209,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 5,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Milestone",
+        "id": 208,
+        "creator": "Kilfy",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Antidote XVI",
+        "keyW": "Knife",
+        "rarity": 5,
+        "seas": 3,
+        "id": 15,
+        "type": 3,
+        "scl": 1.25,
+        "sclMlt": 0.98,
+        "yOff": -2,
+        "alpha": 0.02,
+        "opac": 1,
+        "noSale": true,
+        "illicit": true,
+        "funds": 1e4,
+        "reqT": "???????"
+    },
+    {
+        "name": "Tropic Pop",
+        "id": 209,
+        "creator": "Exxor",
+        "weapon": 2,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Cyclonic Charge",
+        "id": 188,
+        "creator": "Multihawk",
+        "weapon": 4,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Disco Kill",
+        "id": 189,
+        "creator": "Destroy007",
+        "weapon": 4,
+        "rarity": 2,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Line Breaker",
+        "id": 135,
+        "creator": "Multihawk",
+        "weapon": 5,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Rev 2058",
+        "id": 136,
+        "creator": "Destroy007",
+        "weapon": 5,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Sarin",
+        "mid": 0,
+        "midT": 104,
+        "creator": "Floatingpoint",
+        "weapon": 6,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Nitrox",
+        "mid": 0,
+        "midT": 105,
+        "creator": "Destroy007",
+        "weapon": 6,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Fireball",
+        "mid": 0,
+        "midT": 47,
+        "creator": "Destroy007",
+        "weapon": 8,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Noble Guard",
+        "mid": 0,
+        "midT": 48,
+        "creator": "Multihawk",
+        "weapon": 8,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Institute",
+        "mid": 0,
+        "midT": 49,
+        "creator": "Floatingpoint",
+        "weapon": 8,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Charoite",
+        "mid": 0,
+        "midT": 44,
+        "creator": "Cimota",
+        "weapon": 10,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Stream Suit",
+        "limT": "Twitch",
+        "id": 10,
+        "shirtCol": 6570405,
+        "sleeveCol": 16448250,
+        "pantsCol": 6570405,
+        "shoeCol": 16448250,
+        "seas": 3,
+        "type": 5,
+        "noSale": true,
+        "rarity": 4
+    },
+    {
+        "name": "USS Krunk",
+        "keyW": "Waist",
+        "rarity": 5,
+        "seas": 3,
+        "id": 4,
+        "type": 6,
+        "scl": 2.1,
+        "spnScl": 2.5,
+        "sclMlt": 2.8,
+        "yOff": -1.5,
+        "xOff": -1,
+        "sitOff": 1,
+        "glow": true,
+        "prevRot": 4,
+        "side": 2,
+        "alpha": 0.7,
+        "trans": true,
+        "frames": 2,
+        "frameT": 300,
+        "noLegs": true,
+        "noSale": true,
+        "illicit": true,
+        "funds": 1e4,
+        "reqT": "Level 50 Runner"
+    },
+    {
+        "name": "USS TTV",
+        "keyW": "Waist",
+        "limT": "Twitch",
+        "tex": 1,
+        "rarity": 5,
+        "seas": 3,
+        "id": 4,
+        "type": 6,
+        "scl": 2.1,
+        "spnScl": 2.5,
+        "sclMlt": 2.8,
+        "yOff": -1.5,
+        "xOff": -1,
+        "sitOff": 1,
+        "prevRot": 4,
+        "glow": true,
+        "side": 2,
+        "alpha": 0.7,
+        "trans": true,
+        "frames": 2,
+        "frameT": 300,
+        "noLegs": true,
+        "noSale": true
+    },
+    {
+        "name": "TTV",
+        "keyW": "Sprays",
+        "limT": "Twitch",
+        "id": 80,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8,
+        "noSale": true
+    },
+    {
+        "name": "TTV Cape",
+        "limT": "Twitch",
+        "id": 52,
+        "tex": 3,
+        "rarity": 4,
+        "side": 2,
+        "glow": true,
+        "type": 2,
+        "keyW": "Body",
+        "xRot": 3,
+        "xOff": -1,
+        "yOff": 1,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -0.5,
+        "sitOffZ": -0.6,
+        "seas": 3,
+        "noSale": true
+    },
+    {
+        "name": "TTV Tron",
+        "limT": "Twitch",
+        "id": 32,
+        "tex": 6,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Head",
+        "seas": 3,
+        "scl": 1,
+        "glow": true,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
+        "frames": 2,
+        "frameT": 400,
+        "noSale": true
+    },
+    {
+        "name": "Krunk TTV",
+        "limT": "Twitch",
+        "id": 32,
+        "tex": 7,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Head",
+        "seas": 3,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 2.05,
+        "yOff": -3.2,
+        "frames": 4,
+        "frameT": 400,
+        "noSale": true
+    },
+    {
+        "name": "Twitched",
+        "limT": "Twitch",
+        "id": 111,
+        "rarity": 2,
+        "type": 1,
+        "keyW": "Head",
+        "seas": 3,
+        "scl": 1,
+        "sclMlt": 0.6,
+        "sitOff": 0.75,
+        "yOff": -1,
+        "noSale": true,
+        "noHead": true
+    },
+    {
+        "name": "tRaDeS?",
+        "keyW": "Sprays",
+        "limT": "Twitch",
+        "id": 81,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8,
+        "noSale": true
+    },
+    {
+        "name": "Partner Push",
+        "keyW": "Sprays",
+        "limT": "Twitch",
+        "id": 82,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8,
+        "noSale": true
+    },
+    {
+        "name": "Mic'd Up",
+        "keyW": "Knife",
+        "limT": "Twitch",
+        "rarity": 4,
+        "seas": 3,
+        "id": 17,
+        "type": 3,
+        "scl": 1,
+        "sclMlt": 0.8,
+        "yOff": -2,
+        "noSale": true,
+        "frames": 2,
+        "frameT": 500,
+        "sxOff": 0.5,
+        "syOff": -0.05,
+        "szOff": -0.1
+    },
+    {
+        "name": "Zed",
+        "keyW": "Sprays",
+        "limT": "Twitch",
+        "id": 84,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8,
+        "noSale": true
+    },
+    {
+        "name": "Kaarson",
+        "keyW": "Sprays",
+        "limT": "Twitch",
+        "id": 86,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8,
+        "noSale": true
+    },
+    {
+        "name": "TTV Vest",
+        "limT": "Twitch",
+        "noSale": true,
+        "id": 58,
+        "rarity": 2,
+        "type": 2,
+        "keyW": "Back",
+        "seas": 3,
+        "scl": 0.5,
+        "sclMlt": 0.5,
+        "sitOff": 1.7,
+        "sitOffZ": 0,
+        "yOff": -2
+    },
+    {
+        "name": "Cheerfull",
+        "limT": "Twitch",
+        "noSale": true,
+        "id": 57,
+        "rarity": 4,
+        "glow": true,
+        "type": 2,
+        "keyW": "Back",
+        "xOff": -2.5,
+        "yOff": -2,
+        "xRot": -0.5,
+        "spnScl": 2.6,
+        "sclMlt": 2.4,
+        "sitOff": -1.65,
+        "sitOffZ": -0.7,
+        "seas": 3
+    },
+    {
+        "name": "Twitcher",
+        "limT": "Twitch",
+        "noSale": true,
+        "id": 210,
+        "creator": "Nxbulah",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Streamer",
+        "limT": "Twitch",
+        "noSale": true,
+        "mid": 0,
+        "midT": 50,
+        "creator": "Chromatikk",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "TTV-Cap",
+        "limT": "Twitch",
+        "noSale": true,
+        "tex": 2,
+        "id": 74,
+        "rarity": 1,
+        "type": 1,
+        "keyW": "Hat",
+        "yOff": -1.5,
+        "xOff": 1,
+        "sclMlt": 0.5,
+        "sitOff": 0.8,
+        "seas": 3
+    },
+    {
+        "name": "Bits",
+        "limT": "Twitch",
+        "noSale": true,
+        "id": 112,
+        "rarity": 5,
+        "type": 1,
+        "keyW": "Hat",
+        "sclMlt": 0.5,
+        "sitOff": -1.5,
+        "rAnim": -0.0016,
+        "rAnimA": "y",
+        "seas": 3
+    },
+    {
+        "name": "Just Vibing",
+        "limT": "Twitch",
+        "creator": "???",
+        "pat": 11,
+        "tex": "weapons/pat/11",
+        "sameglow": true,
+        "movT": 3e-4,
+        "movD": 1,
+        "tileS": 3,
+        "weapon": 1,
+        "rarity": 4,
+        "seas": 3,
+        "noSale": true
+    },
+    {
+        "name": "Arae Atlas",
+        "id": 210,
+        "creator": "Luminae",
+        "weapon": 1,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Rezein",
+        "id": 211,
+        "creator": "Nxbulah",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "ThiccChemist",
+        "id": 212,
+        "creator": "Nxbulah",
+        "weapon": 1,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Radalive",
+        "id": 213,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Arctic",
+        "id": 211,
+        "creator": "Destroy007",
+        "weapon": 2,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Kanashii",
+        "id": 190,
+        "creator": "Whippii",
+        "weapon": 4,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Sunset claw",
+        "id": 137,
+        "creator": "Kilfy",
+        "weapon": 5,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Blazed",
+        "id": 123,
+        "creator": "Cimota",
+        "weapon": 7,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Avalan",
+        "mid": 0,
+        "midT": 51,
+        "creator": "Nxbulah",
+        "weapon": 8,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Disruptor",
+        "mid": 0,
+        "midT": 52,
+        "creator": "Multihawk",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Phusion",
+        "mid": 0,
+        "midT": 53,
+        "creator": "Nxbulah",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Midnight Phoenix",
+        "id": 126,
+        "creator": "Destroy007",
+        "weapon": 15,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Upset",
+        "id": 214,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Fished",
+        "id": 212,
+        "creator": "Skriller33",
+        "weapon": 2,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Hannya",
+        "id": 213,
+        "creator": "Whippii",
+        "weapon": 2,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Drakon",
+        "id": 214,
+        "creator": "Kltter",
+        "weapon": 2,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "caL",
+        "id": 215,
+        "creator": "Kilfy",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "CIRO",
+        "id": 191,
+        "creator": "Kltter",
+        "weapon": 4,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Redolent",
+        "id": 138,
+        "creator": "Cimota",
+        "weapon": 5,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Man vs God",
+        "mid": 0,
+        "midT": 54,
+        "creator": "Chromatikk",
+        "weapon": 8,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Scaze",
+        "id": 127,
+        "creator": "Kilfy",
+        "weapon": 15,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Kinto",
+        "creator": "Nxbulah",
+        "keyW": "Knife",
+        "animInd": 1,
+        "glow": true,
+        "pulsT": 0.1,
+        "tex": 4,
+        "id": 2,
+        "type": 3,
+        "scl": 3,
+        "seas": 3,
+        "sclMlt": 0.98,
+        "yOff": -2,
+        "rarity": 4
+    },
+    {
+        "name": "Divine",
+        "creator": "Destroy007",
+        "keyW": "Knife",
+        "animInd": 1,
+        "glow": true,
+        "pulsT": 0.1,
+        "tex": 5,
+        "id": 2,
+        "type": 3,
+        "scl": 3,
+        "seas": 3,
+        "sclMlt": 0.98,
+        "yOff": -2,
+        "rarity": 4
+    },
+    {
+        "name": "Diabolo",
+        "creator": "Destroy007",
+        "keyW": "Knife",
+        "animInd": 1,
+        "glow": true,
+        "tex": 6,
+        "id": 2,
+        "type": 3,
+        "scl": 3,
+        "seas": 3,
+        "sclMlt": 0.98,
+        "yOff": -2,
+        "rarity": 4
+    },
+    {
+        "name": "Fadecrusher",
+        "creator": "Multihawk",
+        "keyW": "Knife",
+        "glow": true,
+        "pulsT": 0.0015,
+        "id": 4,
+        "tex": 2,
+        "type": 3,
+        "seas": 3,
+        "rarity": 5,
+        "scl": 2,
+        "sclMlt": 0.75,
+        "yOff": -1,
+        "sxOff": 0,
+        "syOff": -0.05,
+        "szOff": -0.1
+    },
+    {
+        "name": "Crimson Edge",
+        "creator": "Multihawk",
+        "id": 9,
+        "tex": 1,
+        "rarity": 4,
+        "type": 3,
+        "sxOff": 0.4,
+        "scl": 1.4,
+        "yOff": -2,
+        "keyW": "Melee",
+        "seas": 3
+    },
+    {
+        "name": "Alter",
+        "creator": "_irizu",
+        "glow": true,
+        "pulsT": 0.0015,
+        "id": 10,
+        "tex": 1,
+        "rarity": 5,
+        "type": 3,
+        "sxRot": -0.3,
+        "syOff": 0.1,
+        "szOff": -0.1,
+        "scl": 0.8,
+        "yOff": -1,
+        "xOff": -1,
+        "keyW": "Melee",
         "seas": 3
     },
     {
@@ -12226,6 +14914,7 @@
         "weapon": 14,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12235,6 +14924,7 @@
         "weapon": 14,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12253,6 +14943,7 @@
         "weapon": 1,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12262,6 +14953,7 @@
         "weapon": 1,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12271,6 +14963,7 @@
         "weapon": 1,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12280,6 +14973,7 @@
         "weapon": 2,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12289,6 +14983,7 @@
         "weapon": 4,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12308,6 +15003,7 @@
         "weapon": 6,
         "rarity": 4,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12326,6 +15022,7 @@
         "weapon": 11,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12335,6 +15032,7 @@
         "weapon": 11,
         "rarity": 5,
         "glow": true,
+        "pulsT": 0.0015,
         "seas": 3
     },
     {
@@ -12370,5 +15068,692 @@
         "keyW": "Body",
         "seas": 3,
         "shaderId": 1
+    },
+    {
+        "name": "Jason",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 113,
+        "rarity": 4,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Sicko",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 114,
+        "glow": true,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Succubus",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 115,
+        "glow": true,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Socket",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "noHead": true,
+        "id": 116,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Crunch",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 117,
+        "rarity": 1,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Paraseye",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 118,
+        "rarity": 2,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Puff Puff",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 119,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Moneybags",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 121,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Braindead",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 122,
+        "rarity": 2,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Gobbler",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 123,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Seefood",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 124,
+        "glow": true,
+        "rarity": 4,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Mr Doodles",
+        "limT": "Twitch #2",
+        "noHead": true,
+        "noSale": true,
+        "id": 125,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Drowned",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 126,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Tentacle",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 59,
+        "rarity": 4,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Observer",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 60,
+        "rarity": 5,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Butcher",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 61,
+        "rarity": 2,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Scales",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 62,
+        "rarity": 2,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Pauldrons",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 64,
+        "rarity": 2,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Walpurgis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 5,
+        "rarity": 4,
+        "type": 6,
+        "keyW": "Waist",
+        "seas": 3,
+        "noLegs": true
+    },
+    {
+        "name": "Scales",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 7,
+        "rarity": 3,
+        "type": 6,
+        "keyW": "Waist",
+        "seas": 3
+    },
+    {
+        "name": "Monster V",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 89,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.9,
+        "keyW": "Sprays"
+    },
+    {
+        "name": "Monster III",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 91,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.9,
+        "keyW": "Sprays"
+    },
+    {
+        "name": "Monster X",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 92,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.9,
+        "keyW": "Sprays"
+    },
+    {
+        "name": "Demonic Haze",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 218,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 5,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Vassago",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 219,
+        "creator": "Lxckless",
+        "weapon": 1,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 220,
+        "weapon": 1,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 221,
+        "weapon": 1,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Poseidon",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 217,
+        "creator": "Atomize",
+        "weapon": 2,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Overseer",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 218,
+        "creator": "Luminae",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Etona",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 219,
+        "creator": "Nxbulah",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "NeoTitan",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 220,
+        "creator": "FlowerKid",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Full Moon",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 221,
+        "creator": "Kristai",
+        "weapon": 2,
+        "rarity": 4,
+        "frames": 4,
+        "frameT": 250,
+        "seas": 3
+    },
+    {
+        "name": "Nightmare",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 222,
+        "creator": "CreshorTV",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Crimson",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 223,
+        "creator": "Chromatikk",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Corruption",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 224,
+        "creator": "Chromatikk",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Overwatch",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 194,
+        "creator": "Destroy007",
+        "weapon": 4,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 195,
+        "weapon": 4,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 196,
+        "weapon": 4,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Symbiote",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 139,
+        "creator": "Whippii",
+        "weapon": 5,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 140,
+        "weapon": 5,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 141,
+        "weapon": 5,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 107,
+        "weapon": 6,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 108,
+        "weapon": 6,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Toxic Rider",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 125,
+        "creator": "Destroy007",
+        "weapon": 7,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Knightingale",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 126,
+        "creator": "FailBucket",
+        "weapon": 7,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 127,
+        "weapon": 7,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 128,
+        "weapon": 7,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Wildlife",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 55,
+        "creator": "Destroy007",
+        "weapon": 8,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 56,
+        "weapon": 8,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 57,
+        "weapon": 8,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 46,
+        "weapon": 10,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "mid": 0,
+        "midT": 47,
+        "weapon": 10,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Devourer",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 2,
+        "creator": "Kilfy",
+        "weapon": 11,
+        "rarity": 5,
+        "glow":!0,
+        "seas": 3
+    },
+    {
+        "name": "Ignis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 128,
+        "weapon": 15,
+        "rarity": 1,
+        "seas": 3
+    },
+    {
+        "name": "Cranium",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 129,
+        "weapon": 15,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Arachnidis",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 46,
+        "tex": 1,
+        "rarity": 5,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Infinity Cloak",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 52,
+        "tex": 5,
+        "rarity": 5,
+        "side": 2,
+        "type": 2,
+        "keyW": "Body",
+        "seas": 3
+    },
+    {
+        "name": "Sorable",
+        "keyW": "Sprays",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 93,
+        "type": 4,
+        "rarity": 1,
+        "seas": 3,
+        "opacity": 0.8
+    },
+    {
+        "name": "Stremz",
+        "keyW": "Sprays",
+        "limT": "Twitch #2",
+        "noSale": true,
+        "id": 94,
+        "type": 4,
+        "rarity": 2,
+        "seas": 3,
+        "opacity": 0.8
+    },
+    {
+        "name": "Void Slicer",
+        "keyW": "Knife",
+        "flipAnim": true,
+        "id": 3,
+        "tex": 13,
+        "type": 3,
+        "seas": 3,
+        "rarity": 5
+    },
+    {
+        "name": "Steel Serpent",
+        "id": 222,
+        "creator": "Chromatikk",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Theta Republica",
+        "id": 223,
+        "creator": "Floatingpoint",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Cactus Jack",
+        "id": 225,
+        "creator": "Kltter",
+        "weapon": 2,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Jakku",
+        "id": 197,
+        "creator": "Kltter",
+        "weapon": 4,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Shortcake",
+        "id": 130,
+        "creator": "Kristai",
+        "weapon": 15,
+        "rarity": 3,
+        "seas": 3
     }
 ]
