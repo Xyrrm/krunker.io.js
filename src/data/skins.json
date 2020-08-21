@@ -15755,5 +15755,376 @@
         "weapon": 15,
         "rarity": 3,
         "seas": 3
+    },
+    {
+        "name": "Resurrection",
+        "id": 224,
+        "creator": "Kilfy",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Bopper",
+        "id": 225,
+        "creator": "FlowerKid",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Containment",
+        "id": 226,
+        "creator": "Atomize",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Sunshine",
+        "id": 227,
+        "creator": "CreshorTV",
+        "weapon": 1,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Tedssyt",
+        "limT": "Twitch #2",
+        "id": 228,
+        "creator": "Cimota",
+        "weapon": 1,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Onamu",
+        "id": 226,
+        "creator": "Nxbulah",
+        "weapon": 2,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Pestilence",
+        "limT": "Twitch #2",
+        "id": 227,
+        "creator": "Chromatikk",
+        "weapon": 2,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Signal",
+        "limT": "Twitch #2",
+        "id": 198,
+        "creator": "FlowerKid",
+        "weapon": 4,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Graffitius",
+        "id": 199,
+        "creator": "Luminae",
+        "weapon": 4,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Headhunter Alpha",
+        "id": 200,
+        "creator": "Multihawk",
+        "weapon": 4,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Tau",
+        "id": 201,
+        "creator": "Floatingpoint",
+        "weapon": 4,
+        "rarity": 2,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Kotal",
+        "id": 142,
+        "creator": "Nxbulah",
+        "weapon": 5,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Imperial",
+        "mid": 0,
+        "midT": 109,
+        "creator": "Cimota",
+        "weapon": 6,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Foria",
+        "mid": 0,
+        "midT": 110,
+        "creator": "Nxbulah",
+        "weapon": 6,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Watercolours",
+        "mid": 0,
+        "midT": 58,
+        "creator": "Multihawk",
+        "weapon": 8,
+        "rarity": 2,
+        "seas": 3
+    },
+    {
+        "name": "Luminescence",
+        "mid": 0,
+        "midT": 48,
+        "creator": "FailBucket",
+        "weapon": 10,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "SunBurst Swirl",
+        "mid": 0,
+        "midT": 49,
+        "creator": "Exxor",
+        "weapon": 10,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Sanctum",
+        "id": 3,
+        "creator": "Multihawk",
+        "weapon": 11,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Futurai",
+        "id": 4,
+        "creator": "Destroy007",
+        "weapon": 14,
+        "rarity": 3,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Fish Warfare",
+        "id": 5,
+        "creator": "Multihawk",
+        "weapon": 14,
+        "rarity": 2,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Hunter",
+        "id": 6,
+        "creator": "Multihawk",
+        "weapon": 14,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Kortal",
+        "id": 131,
+        "creator": "Destroy007",
+        "weapon": 15,
+        "rarity": 3,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Modular",
+        "id": 0,
+        "creator": "Floatingpoint",
+        "weapon": 17,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Googly",
+        "limT": "Twitch #2",
+        "id": 127,
+        "rarity": 4,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Despair",
+        "creator": "Kilfy",
+        "keyW": "Knife",
+        "tex": 7,
+        "id": 2,
+        "glow": true,
+        "type": 3,
+        "seas": 3,
+        "rarity": 5
+    },
+    {
+        "name": "Death Rattle",
+        "id": 228,
+        "creator": "CreshorTV",
+        "weapon": 2,
+        "rarity": 3,
+        "seas": 3
+    },
+    {
+        "name": "Cinder",
+        "id": 202,
+        "creator": "Kilfy",
+        "weapon": 4,
+        "rarity": 4,
+        "glow": true,
+        "seas": 3
+    },
+    {
+        "name": "Overloaded",
+        "id": 1,
+        "creator": "Kilfy",
+        "weapon": 12,
+        "rarity": 4,
+        "glow": true,
+        "pulsT": 0.0015,
+        "seas": 3
+    },
+    {
+        "name": "Happy",
+        "id": 0,
+        "rarity": 3,
+        "type": 7,
+        "keyW": "Face",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Smooch",
+        "id": 0,
+        "tex": 1,
+        "rarity": 4,
+        "type": 7,
+        "keyW": "Face",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Kawaii",
+        "id": 0,
+        "tex": 2,
+        "rarity": 3,
+        "type": 7,
+        "keyW": "Face",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Smirk",
+        "id": 0,
+        "tex": 3,
+        "rarity": 3,
+        "type": 7,
+        "keyW": "Face",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Upset",
+        "id": 0,
+        "tex": 4,
+        "rarity": 4,
+        "type": 7,
+        "keyW": "Face",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Ravatron",
+        "id": 130,
+        "rarity": 5,
+        "type": 1,
+        "glow": true,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Demon Baby",
+        "noHead": true,
+        "id": 131,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Soulless",
+        "noHead": true,
+        "id": 132,
+        "rarity": 4,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
+    },
+    {
+        "name": "Krunkuto",
+        "id": 133,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "5Head",
+        "noHead": true,
+        "id": 134,
+        "rarity": 3,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3,
+        "trans": true
+    },
+    {
+        "name": "Deadball",
+        "noHead": true,
+        "id": 135,
+        "rarity": 4,
+        "type": 1,
+        "keyW": "Hat",
+        "seas": 3
     }
 ]
